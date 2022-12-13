@@ -1,0 +1,90 @@
+.rectangle{
+    height:200px;
+    width:300px;
+   background:linear-gradient(red yellow blue);
+   background:radial-gradient(red yellow blue);
+}
+.main{
+    display:flex;
+    justify-content;
+    height:50%;
+
+}
+img{
+    border:1px solid pink ;
+
+    float:left;
+    height:150px;
+    width:150px;
+}
+.abkalam{
+    width:50%;
+    height:50%;
+    background-color:ghostwhite;
+}
+.sachin{
+    width:50%;
+    height:50%;
+    background-color:honeydew;
+}
+.first{
+    width:50%;
+    height:50%;
+    background-color:paleturquoise;
+}
+.second{
+    width:50%;
+    height:50%;
+    b
+    background-color:gray;
+}
+.meg{
+    width:50%;
+}
+.rect1{
+    height:50px;
+    
+    background-color:orangered;
+}
+.rect2{
+    height:50px;
+    background-color:white;
+}
+.rect3{
+    height:50px;
+    background-color:green;
+    
+}
+.krish{
+    height:150px;
+    width:50%;
+    background:linear-gradient(red, yellow,blue);
+}
+.circle{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color: blue;
+    margin-left:50%;
+}
+.rg{
+    height:150px;
+    width:50%;
+    background:radial-gradient(red,green,blue);
+}
+.buj{
+    width:50%;
+    height:150px;
+    background-color:aquamarine;
+    padding:30px;
+}
+.cir{
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    background-color:red;
+    margin-left:35%;
+    padding:30px;
+}
+
+
